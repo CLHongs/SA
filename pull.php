@@ -1,2 +1,0 @@
-abc1234abc123
-apple
